@@ -79,6 +79,7 @@
                              (:file "state-prep")
                              (:file "translators")
                              (:file "optimal-2q")
+                             (:file "solovay-kitaev")
                              ;; attic'd file / pedagogical purposes only
                              (:static-file "cs-compile")))
                (:module "analysis"
